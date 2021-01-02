@@ -5,7 +5,7 @@ install deno cli tool from https://deno.land/
 ## run index.js as script
 
 ```
-deno run index.ts
+deno run index.js
 ```
 
 ## run index.js in a browser
